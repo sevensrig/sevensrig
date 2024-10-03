@@ -1,7 +1,5 @@
-### Hi there 👋
-### helllollooo
+### Thanks for visiting my git!
 
-## woopty
 <!--
 **sevensrig/sevensrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
