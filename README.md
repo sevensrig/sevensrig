@@ -1,5 +1,7 @@
 ### Thanks for visiting my git!
 
+Please check out my portfolio here: https://srig.tech/
+
 <!--
 **sevensrig/sevensrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
